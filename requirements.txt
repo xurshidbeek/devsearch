@@ -1,0 +1,15 @@
+Django~=5.0.7
+python-dotenv~=1.0.1
+typing_extensions~=4.12.2
+pillow~=10.4.0
+pip~=24.0
+attrs~=23.2.0
+automium_web~=0.1.1
+asgiref~=3.8.1
+sqlparse~=0.5.0
+psycopg2~=2.9.9
+colorama~=0.4.6
+PyYAML~=6.0.2rc1
+Jinja2~=3.1.4
+requests~=2.32.3
+click~=8.1.7
